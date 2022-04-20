@@ -1,29 +1,11 @@
 git init
-git config --global user.name "Polarapu Prasad"
-git config --global user.email "devopstraining2015@gmail.com"
-
-git config --list
-
-git config --global --unset user.name
-git config --global --unset user.email
-
-----------------------
-touch file1
-ls
-git status
-git add file1
-git status
-git commit -m "label" file1
-git status
-git log
-git show cid
-
+ndfjdfkdsf
 ==================
 touch file2 file3 file4
-ls
+lsfdsff
 git status
 git add file2 file3 file4
-or
+ordsddd
 git add .
 or
 git add *
@@ -36,33 +18,15 @@ git status
 git log
 git show cid
 
-================================
+=======ddddddddddddd=========================
 git add file1 (workspace to staging)
 git reset head file1  (staging to workspace)
 
 git commit -m "label"  (staging to local)
 git reset --soft cid (n-1)  (local to staging)
-
-git reset --mixed cid  (n-1)  (local to workspace)
-
-
------------------------------------
-git clone https://github.com/polarapu/batch78.git
-ls
-cd batch78
-touch file1
-ls
-git status
-git add file1
-git status
-git commit -m "sample file1"
-git status
-git log
-git push
-
-
-----------------
-rm -rf file/dir
+ldfkdkfdsf
+----------vkcxvkxlv------
+rm -rf file/dirxccc
 ls
 git status
 git add file
@@ -71,10 +35,10 @@ git commit -m "deleted file"
 git push
 
 =====================
-
+dddd
 git clone https://github.com/polarapu/batch78.git
 ls
-cd batch78
+cd bffffatch78
 ls
 touch name
 git status
@@ -83,7 +47,7 @@ git status
 git commit -m "sample commit from name"
 git status
 git log
-q
+qddd
 git push
 git pull --rebase
 git push
@@ -97,7 +61,7 @@ git branch
 
 git branch release1
 
-git branch
+git dkddsukikdsbranch
 
 git checkout release1
 
@@ -109,4 +73,4 @@ git push origin branch-name
 or
 git push path/of/c-repo branch-name
 
-git push origin -d branch-name  (delete on central)
+git push originjdsfjsdkfk -d branch-name  (delete on central)
