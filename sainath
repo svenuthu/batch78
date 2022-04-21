@@ -1,0 +1,39 @@
+Advaith@DESKTOP-3NCKQQC MINGW64 /g/DEVOPS/Git_Repo/batch78 (main)
+$ git log -5
+commit 7de3dbfb2af0a01f89b5766962a341d020668814 (HEAD -> main, origin/main, origin/HEAD)
+Author: sainath.kota <sainath.kota@gmail.com>
+Date:   Thu Apr 21 09:52:11 2022 +0530
+
+    commit branch_sainat_branch
+
+commit 27a419c6979703042707e592be70657c16f18f06
+Author: sainath.kota <sainath.kota@gmail.com>
+Date:   Thu Apr 21 09:46:43 2022 +0530
+
+    sainath branch
+
+commit 6c1a8b041e613551754682000f8b8a2a3fb3ec81
+Author: DevOps Prasad <devopstraining2015@gmail.com>
+Date:   Wed Apr 20 20:50:36 2022 +0530
+
+    Revert "Revert "Revert "sample-commit"""
+
+    This reverts commit 15a866e6de0f7499a7cd6c4ea5b3601ee7fc2c82.
+
+commit 15a866e6de0f7499a7cd6c4ea5b3601ee7fc2c82
+Author: DevOps Prasad <devopstraining2015@gmail.com>
+Date:   Wed Apr 20 20:49:40 2022 +0530
+
+    Revert "Revert "sample-commit""
+
+    This reverts commit ef80ef328f066a18e5d954d8244769fda5858ae6.
+
+commit ef80ef328f066a18e5d954d8244769fda5858ae6
+Author: DevOps Prasad <devopstraining2015@gmail.com>
+Date:   Wed Apr 20 20:48:11 2022 +0530
+
+    Revert "sample-commit"
+
+    This reverts commit 085f62bd912f7c42f1a44c34fba5faa7ed78349e.
+
+Advaith@DESKTOP-3NCKQQC MINGW64 /g/DEVOPS/Git_Repo/batch78 (main)
