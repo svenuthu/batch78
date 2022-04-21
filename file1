@@ -1,0 +1,9 @@
+cd Git_Repo
+touch file1
+ls
+git status
+git add file1
+git status
+git commit -m "clone repo" file1 
+
+
