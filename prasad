@@ -107,6 +107,6 @@ git branch -d branch-name  (delete on local)
 
 git push origin branch-name
 or
-git push path/of/c-repo branch-name
+git push <path of c-repo> branch-name
 
 git push origin -d branch-name  (delete on central)
