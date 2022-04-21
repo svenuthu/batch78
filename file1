@@ -1,0 +1,20 @@
+1)what is cloud?
+a)a collection of data centres
+  its a huge space which has all the services available
+  
+  2)what is cloud computing?
+  a)cloud computing is a 
+  
+   * storing data/application on remote servers
+   *processing data/application from serevers
+   *accessing data/application via internet
+   any where we can access data by cloud computing
+   
+   service models:SaaS  : software as a service :-
+                         cloud provider leases applications or softwares which are owned by them to its client
+				
+	          PaaS  : platform as a service
+			 No control over the underlying architecture including OS,storage,servers,etc
+						  
+		  iaaS  : infrastructure as a service
+                         provides virtualized computing resources over the internet
